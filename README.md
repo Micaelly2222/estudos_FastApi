@@ -1,4 +1,4 @@
-# estudos_FastApi
+# estudos_fastApi
 
 Projeto desenvolvido para estudo da documentação do [FastAPI](https://fastapi.tiangolo.com/) 
 
