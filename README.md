@@ -25,7 +25,8 @@ O FastAPI é um framework Python focado no desenvolvimento de API's
     
  ## Documentação
  
- Acessando localhost:8000 aparecerá a documentação interativa automática da API.
+ * Acessando localhost:8000 aparecerá a documentação interativa automática da API.
  [nesse link](http://127.0.0.1:8000/docs).
+ * Para testar a API, foi usado o [Postman](https://www.postman.com/)
 
 
