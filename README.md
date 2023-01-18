@@ -1,6 +1,9 @@
 # Estudos FastApi
 
-Projeto desenvolvido para estudo da documentação do [FastAPI](https://fastapi.tiangolo.com/) 
+Projeto desenvolvido para estudo da documentação do [FastAPI](https://fastapi.tiangolo.com/)
+<br>
+
+O FastAPI é um framework Python focado no desenvolvimento de API's
 
 # Instalação
 
