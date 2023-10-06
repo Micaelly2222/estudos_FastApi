@@ -6,13 +6,11 @@ Este projeto foi criado para aprofundar os estudos na documentação do [FastAPI
 O FastAPI é um framework Python focado no desenvolvimento de API's
 
 ## Requisitos Mínimos de Instalação
-É necessário instalar o FastApi e Uvicorn
 
-  Executar no terminal:
-```bash
-    pip install fastapi
-    pip install "uvicorn[standard]"
-``` 
+* Python (versão 3.6 ou superior)
+* pip install fastapi
+* pip install "uvicorn[standard]"
+
 
 ## Execução
 
