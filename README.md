@@ -1,11 +1,12 @@
-## Estudos FastApi
+# Estudos FastApi
 
-Projeto desenvolvido para estudo da documentação do [FastAPI](https://fastapi.tiangolo.com/)
-<br>
+## Visão Geral
 
+Este projeto foi criado para aprofundar os estudos na documentação do [FastAPI](https://fastapi.tiangolo.com/)
 O FastAPI é um framework Python focado no desenvolvimento de API's
 
 ## Instalação
+É necessário instalar o FastApi e Uvicorn
 
   Executar no terminal:
 ```bash
@@ -23,10 +24,15 @@ O FastAPI é um framework Python focado no desenvolvimento de API's
     uvicorn main:app
 ``` 
     
- ## Documentação
+ ## Documentação Interativa
  
- * Acessando localhost:8000 aparecerá a documentação interativa automática da API.
- [nesse link](http://127.0.0.1:8000/docs).
+* Você pode acessar a documentação interativa automática da API em http://127.0.0.1:8000/docs quando o servidor estiver em execução. Essa documentação é gerada automaticamente pelo FastAPI e permite testar e explorar a API de maneira interativa.
+
+ ## Teste da API
  * Para testar a API, foi usado o [Postman](https://www.postman.com/)
+
+## Recomendaçoes
+
+* Este projeto é voltado para estudos e experimentação com o FastAPI. Recomenda-se que você explore a documentação oficial do FastAPI para obter uma compreensão mais profunda de seus recursos e capacidades.
 
 
