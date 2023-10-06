@@ -5,7 +5,7 @@
 Este projeto foi criado para aprofundar os estudos na documentação do [FastAPI](https://fastapi.tiangolo.com/)
 O FastAPI é um framework Python focado no desenvolvimento de API's
 
-## Instalação
+## Requisitos Mínimos de Instalação
 É necessário instalar o FastApi e Uvicorn
 
   Executar no terminal:
